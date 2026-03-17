@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Basil plant">
+  <rect width="800" height="520" fill="#14532d" />
+  <ellipse cx="280" cy="270" rx="120" ry="150" fill="#22c55e" />
+  <ellipse cx="430" cy="250" rx="120" ry="150" fill="#16a34a" />
+  <ellipse cx="560" cy="290" rx="110" ry="140" fill="#4ade80" />
+  <text x="400" y="470" font-size="52" text-anchor="middle" fill="#dcfce7" font-family="Verdana, sans-serif">Basil</text>
+</svg>

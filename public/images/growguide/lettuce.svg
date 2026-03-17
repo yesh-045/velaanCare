@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Lettuce">
+  <rect width="800" height="520" fill="#166534" />
+  <ellipse cx="300" cy="270" rx="170" ry="130" fill="#84cc16" />
+  <ellipse cx="500" cy="260" rx="170" ry="130" fill="#65a30d" />
+  <text x="400" y="470" font-size="52" text-anchor="middle" fill="#ecfdf5" font-family="Verdana, sans-serif">Lettuce</text>
+</svg>

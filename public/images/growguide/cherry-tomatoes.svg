@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Cherry tomatoes">
+  <rect width="800" height="520" fill="#14532d" />
+  <circle cx="250" cy="280" r="90" fill="#ef4444" />
+  <circle cx="380" cy="210" r="84" fill="#f97316" />
+  <circle cx="510" cy="290" r="96" fill="#dc2626" />
+  <text x="400" y="470" font-size="52" text-anchor="middle" fill="#ecfdf5" font-family="Verdana, sans-serif">Cherry Tomatoes</text>
+</svg>

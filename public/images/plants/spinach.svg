@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Spinach plant">
+  <rect width="800" height="520" fill="#052e16" />
+  <ellipse cx="280" cy="270" rx="120" ry="150" fill="#15803d" />
+  <ellipse cx="430" cy="250" rx="120" ry="150" fill="#166534" />
+  <ellipse cx="560" cy="290" rx="110" ry="140" fill="#14532d" />
+  <text x="400" y="470" font-size="52" text-anchor="middle" fill="#bbf7d0" font-family="Verdana, sans-serif">Spinach</text>
+</svg>

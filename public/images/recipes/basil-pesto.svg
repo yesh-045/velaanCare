@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Basil pesto">
+  <rect width="800" height="520" fill="#14532d" />
+  <circle cx="400" cy="250" r="170" fill="#15803d" />
+  <circle cx="400" cy="250" r="120" fill="#22c55e" />
+  <text x="400" y="470" font-size="52" text-anchor="middle" fill="#dcfce7" font-family="Verdana, sans-serif">Basil Pesto</text>
+</svg>

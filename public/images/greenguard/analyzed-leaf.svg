@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Analyzed leaf">
+  <rect width="600" height="600" fill="#052e16" />
+  <path d="M300 80c130 0 210 120 180 250-26 110-112 190-180 190S146 440 120 330C90 200 170 80 300 80z" fill="#22c55e" />
+  <path d="M300 130v360" stroke="#14532d" stroke-width="14" />
+  <text x="300" y="560" font-size="40" text-anchor="middle" fill="#dcfce7" font-family="Verdana, sans-serif">Leaf Analysis</text>
+</svg>

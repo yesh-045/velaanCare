@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Mint plant">
+  <rect width="800" height="520" fill="#134e4a" />
+  <path d="M210 330c0-90 90-170 190-170s190 80 190 170" fill="#14b8a6" />
+  <ellipse cx="400" cy="250" rx="180" ry="120" fill="#2dd4bf" />
+  <text x="400" y="470" font-size="52" text-anchor="middle" fill="#ccfbf1" font-family="Verdana, sans-serif">Mint</text>
+</svg>
