@@ -48,6 +48,27 @@ npm run dev
 
 App runs at `http://localhost:3000`.
 
+### 4. Setup GreenGuard AI Microservice
+
+The plant disease detection and chat features are powered by a separate Node.js microservice running local AI models via Ollama.
+
+1. Install [Ollama](https://ollama.com/) on your machine.
+2. Download the required open-source Vision and Chat models:
+   ```bash
+   ollama pull qwen2.5:0.5b
+   ollama pull qwen3-vl:2b
+   ollama serve
+   ```
+3. Navigate to the microservice directory, install dependencies, and start it:
+   ```bash
+   cd greenguard-microservice
+   npm install
+   # Configure your .env file with TAVILY_API_KEY if you want web-search RAG enabled
+   npm run dev
+   ```
+   
+The GreenGuard API will now be running on `http://localhost:4000` and automatically handle frontend image uploads.
+
 ## Database Seeding
 
 The backend auto-seeds default data on first API access if collections are empty.
